@@ -1,4 +1,4 @@
-Hi, I'm an indie developer working on educational games,
+Hi, I'm a solo developer working on educational games,
 business software and easy-to-use libraries for Unity and .NET
 
 I've always wanted to build new ideas and see them come to life,
@@ -14,7 +14,7 @@ new open-source Networking project for .NET and Unity. Hoping for someone with a
 in-depth knowledge about networking using the TCP protocol, and preferably C# in general.
 
 You can contact me at my Gmail:
-    businessmaningtonson@gmail.com
+    saifurmohammed25@gmail.com
 for any collab requests or queries about my projects.
 
 Thanks!
